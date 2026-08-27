@@ -2,7 +2,7 @@ class calc_project{
   public int add(int a,int b){
     int c=a+b;
     return c;
-    public int sub(int a,int b0{
+    public int sub(int a,int b){
       int c=a-b;
       return c;
   }
